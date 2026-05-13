@@ -31,7 +31,7 @@ Reference Updates
  ↓
 Reflection & Replan (conditional only)
 ```
-##
+---
 | --------------- | ------------------ |
 | LLM             | semantic reasoning |
 | Runtime         | orchestration      |
@@ -39,3 +39,4 @@ Reflection & Replan (conditional only)
 | Hydrator        | context loader     |
 | Workers         | execution          |
 | Artifact Store  | persistence        |
+---

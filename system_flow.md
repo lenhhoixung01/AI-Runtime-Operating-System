@@ -30,7 +30,6 @@ Artifact Outputs
 Reference Updates
  ↓
 Reflection & Replan (conditional only)
-```
 ---
 | --------------- | ------------------ |
 | LLM             | semantic reasoning |

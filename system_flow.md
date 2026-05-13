@@ -1,4 +1,4 @@
-```text id="l74kq6"
+```
 User
  ↓
 Goal Parser
@@ -31,7 +31,7 @@ Reference Updates
  ↓
 Reflection & Replan (conditional only)
 ```
-
+##
 | --------------- | ------------------ |
 | LLM             | semantic reasoning |
 | Runtime         | orchestration      |

@@ -1,3 +1,4 @@
+```text id="l74kq6"
 User
  ↓
 Goal Parser
@@ -29,7 +30,7 @@ Artifact Outputs
 Reference Updates
  ↓
 Reflection & Replan (conditional only)
-
+```
 
 | --------------- | ------------------ |
 | LLM             | semantic reasoning |
